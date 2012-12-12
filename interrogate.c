@@ -552,8 +552,8 @@ int main(int argc, char **argv) {
 		malloc(sizeof(interrogate_context));	/* Program context */
 
 	printf(
-    "Interrogate  Copyright (C) 2008  Carsten Maartmann-Moe "
-    "<carmaa@gmail.com>\n"
+    "Interrogate  0.0.4 Copyright (C) 2008  Carsten Maartmann-Moe "
+    "<carsten@carmaa.com\n"
     "This program comes with ABSOLUTELY NO WARRANTY; for details use `-h'.\n"
     "This is free software, and you are welcome to redistribute it\n"
     "under certain conditions; see bundled file licence.txt for details.\n\n"

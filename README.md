@@ -14,8 +14,8 @@ Key data
 
  * Version: 0.0.4
  * License: GPL
- * Author: 	Carsten Maartmann-Moe (carsten@carmaa.com) AKA ntropy (n@tropy.org)
- * Twitter: @breaknenter
+ * Author: 	Carsten Maartmann-Moe (carsten@carmaa.com)
+ * Twitter: @MaartmannMoe
  * Source: 	https://github.com/carmaa/interrogate
 
 
@@ -60,7 +60,9 @@ This is a Proof of Concept tool only. Don't expect too much.
 Troubleshooting
 ---------------
 
-Please see my master's thesis: http://www.carmaa.com/site/Publications.html
+Please see my master's thesis: https://brage.bibsys.no/xmlui/handle/11250/261742
+
+And the related paper: https://dfrws.org/sites/default/files/session-files/paper-the_persistence_of_memory_-_forensic_identification_and_extraction_of_cryptographic_keys.pdf
 
 
 Planned features
